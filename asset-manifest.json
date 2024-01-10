@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oke/static/css/main.350a2526.css",
+    "main.js": "/oke/static/js/main.122f1f24.js",
+    "index.html": "/oke/index.html",
+    "main.350a2526.css.map": "/oke/static/css/main.350a2526.css.map",
+    "main.122f1f24.js.map": "/oke/static/js/main.122f1f24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.350a2526.css",
+    "static/js/main.122f1f24.js"
+  ]
+}
